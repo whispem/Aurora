@@ -3,7 +3,7 @@
 AuroraView is a SwiftUI project that simulates a dynamic aurora borealis with a starry night sky. 
 It combines multiple animated gradient layers and a particle system to create a smooth, immersive visual experience.
 
-Features
+*Features*
 	•	Animated Aurora Layers
 Multiple gradient layers with different amplitudes, frequencies, and speeds for a realistic aurora effect.
 	•	Dynamic Starry Sky
